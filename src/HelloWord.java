@@ -4,5 +4,7 @@
 public class HelloWord {
     public static void main(String[] args) {
         System.out.printf("This is My first programme using mac to write!");
+        System.out.println("New changes!");
     }
+
 }

@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../Algorithm/Algorithm.iml" filepath="$PROJECT_DIR$/../Algorithm/Algorithm.iml" />
       <module fileurl="file://$PROJECT_DIR$/DesignPattern.iml" filepath="$PROJECT_DIR$/DesignPattern.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../LaoMaProgramLearn/LaoMaProgramLearn.iml" filepath="$PROJECT_DIR$/../LaoMaProgramLearn/LaoMaProgramLearn.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../SpringZoo/SpringZoo.iml" filepath="$PROJECT_DIR$/../SpringZoo/SpringZoo.iml" />
     </modules>
   </component>
 </project>
